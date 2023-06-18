@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sss (60).jpg</filename>
+	<path>E:\YOLOv5\yolov5-5.0\MYbank\images\train\sss (60).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>984</width>
+		<height>1312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nongye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>529</ymin>
+			<xmax>596</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>810</ymin>
+			<xmax>892</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+</annotation>

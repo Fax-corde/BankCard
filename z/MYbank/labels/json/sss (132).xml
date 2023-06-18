@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sss (132).jpg</filename>
+	<path>E:\zonghekeshe\VOC2007\train\sss (132).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1799</width>
+		<height>1349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nongye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>376</ymin>
+			<xmax>1036</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>715</ymin>
+			<xmax>1456</xmax>
+			<ymax>848</ymax>
+		</bndbox>
+	</object>
+</annotation>
